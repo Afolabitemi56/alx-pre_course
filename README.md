@@ -1,1 +1,1 @@
-My first readme
+Temitope is a Software Engineer
